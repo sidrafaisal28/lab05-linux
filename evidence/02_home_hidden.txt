@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 sidrafaisal28 sidrafaisal28 4096 Oct 16 07:50 .
+drwxr-xr-x 3 root          root          4096 Sep 18 07:31 ..
+-rw------- 1 sidrafaisal28 sidrafaisal28  456 Oct 16 07:06 .bash_history
+-rw-r--r-- 1 sidrafaisal28 sidrafaisal28  220 Sep 18 07:31 .bash_logout
+-rw-r--r-- 1 sidrafaisal28 sidrafaisal28 3771 Sep 18 07:31 .bashrc
+drwx------ 2 sidrafaisal28 sidrafaisal28 4096 Sep 18 07:40 .cache
+-rw-rw-r-- 1 sidrafaisal28 sidrafaisal28  183 Oct 16 07:47 .gitconfig
+drwx------ 3 sidrafaisal28 sidrafaisal28 4096 Oct 13 21:37 .local
+-rw-r--r-- 1 sidrafaisal28 sidrafaisal28  807 Sep 18 07:31 .profile
+drwx------ 2 sidrafaisal28 sidrafaisal28 4096 Oct 16 07:40 .ssh
+drwxrwxr-x 3 sidrafaisal28 sidrafaisal28 4096 Oct 13 21:43 Assignment01
+drwxrwxr-x 3 sidrafaisal28 sidrafaisal28 4096 Oct 12 20:58 Gitea
+drwxrwxr-x 5 sidrafaisal28 sidrafaisal28 4096 Oct 16 07:51 lab05-linux
+drwxr-xr-x 3 root          root          4096 Oct 12 19:09 usr
