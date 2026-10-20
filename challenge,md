@@ -1,0 +1,21 @@
+## Question 1
+Answer: I am sidrafaisal28. My home folder is /home/sidrafaisal28.
+Commands: whoami, pwd
+
+## Question 2
+Answer: The server name is ubuntu. It runs Ubuntu 26.04.1 LTS.
+Commands: hostname, cat /etc/os-release
+## Question 3
+Answer: The server has 5.2Gi RAM and 3.0G free disk space.
+Commands: free -h, df -h /
+
+## Question 4
+Answer: The users who can log in with /bin/bash are root and sidrafaisal28 (write the names you see in your output).
+Commands: grep bash /etc/passwd
+## Question 5
+Answer: There are 240 processes running (use your own number).
+Commands: ps aux | wc -l
+
+## Question 6
+Answer: lab5user was created at 2026-10-19 23:39:56 UTC and deleted at (time from your log) UTC.
+Commands: sudo grep lab5user /var/log/auth.log
